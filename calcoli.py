@@ -12,5 +12,3 @@ def somma(a, b):
 def sottrazione(a, b):
     """Restituisce la differenza tra a e b."""
     return a - b
-
-"c"
